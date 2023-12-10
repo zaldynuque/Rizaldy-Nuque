@@ -1,8 +1,2 @@
 # Rizaldy-Nuque
-Bank Churn Prediction Using Neural Network
-
-Business Context:
-Businesses, particularly banks, must address 'Customer Churn' - the issue of customers switching to competitors. Identifying key service factors influencing this decision is vital, allowing management to focus on targeted service improvements.
-
-Objective:
-Build a neural network-based classifier that can determine whether a customer will leave the bank or not in the next 6 months.
+This repository showcases over 20 cross-industry projects in technology, energy, manufacturing, healthcare, public service, financial services, consumer packaged goods, telecommunication, and more, utilizing advanced techniques such as optimization, Machine Learning, NLP, Deep Learning, Neural Networks, Computer Vision, and Generative AI.
