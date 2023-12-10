@@ -1,4 +1,4 @@
-# silver-octo-waddle
+# RizaldyNuque
 Bank Churn Prediction Using Neural Network
 
 Business Context:
