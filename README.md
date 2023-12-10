@@ -1,4 +1,4 @@
-# RizaldyNuque
+# Rizaldy-Nuque
 Bank Churn Prediction Using Neural Network
 
 Business Context:
